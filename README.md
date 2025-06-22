@@ -1,10 +1,10 @@
-# 🛠️ Intrusor
+# Intrusor
 
 **Intrusor** est un outil CLI interactif pédagogique pour découvrir les bases du pentesting et de la sécurité web.
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 $ git clone https://github.com/tonuser/tonrepo.git  
 $ cd tonrepo  
@@ -14,18 +14,18 @@ $ pip install -r requirements.txt
 
 ---
 
-## 🎯 Utilisation
+## Utilisation
 
 $ python intrusor.py
 
 Tu accèderas à un menu interactif :
-- 📡 Scan réseau
-- 🍪 Audit cookies sensibles
-- ❌ Quitter
+- Scan réseau
+- Audit cookies sensibles
+- Quitter
 
 ---
 
-## ⚠️ Avertissement
+## Avertissement
 
 **Ce projet est à but éducatif uniquement.**  
 N’analyse aucune cible sans autorisation explicite. L’auteur décline toute responsabilité en cas d’usage abusif.
