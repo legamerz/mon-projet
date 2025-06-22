@@ -22,7 +22,7 @@ Tu accèderas à un menu interactif :
 - Scan réseau
 - Audit cookies sensibles
 - Quitter
-
+(le scan reseau n'est pas encore disponible)
 ---
 
 ## Avertissement
